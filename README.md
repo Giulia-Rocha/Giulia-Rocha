@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi! I'm Giulia Rocha👋
+- I'm a Software Engineering student 👩‍💻
+- Currently learning Java ☕
+  <hr>
 
-<!--
-**Giulia-Rocha/Giulia-Rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <img height ="180em" src="https://github-readme-stats.vercel.app/api?=username=Giulia-Rocha&show_icons=true&theme=highcontrast"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giulia-Rocha&layout=compact&theme=highcontrast"/>
+ 
+<a href="https://www.linkedin.com/in/giulia-barbizan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
+<hr>
 
-Here are some ideas to get you started:
+### Languages that I speak 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :brazil: Portuguese -> **Fluent**
+- :us: English -> **Advanced**
+- 🇪🇸 Spanish -> **Basic**
